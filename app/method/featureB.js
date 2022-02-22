@@ -1,3 +1,3 @@
 function featureB() {
-    console.log('dev a coding');
+    console.log('dev a coding tihi');
 }
